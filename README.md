@@ -5,7 +5,7 @@
 
 ```ini
 [emby]
-url = http://media.emby.com（(必填)）
+url = http://media.emby.com（必填）
 username = （必填）
 password = （必填）
 api_key = （留空）
